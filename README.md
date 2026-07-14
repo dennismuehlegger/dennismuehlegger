@@ -1,8 +1,8 @@
 ## Dennis Mühlegger
 
-Backend developer with 2 years of experience, mostly in Java and Spring Boot.
-I've worked on production code professionally and I'm currently building projects
-independently to round out my skills — including frontend work which I'm picking up mostly from scratch.
+Backend Developer with 2 years of professional experience, specializing in Java and the Spring Boot ecosystem. 
+I build robust, production-ready APIs with a strong focus on clean architecture, database performance, and data integration. 
+Currently expanding my skillset.
 
 ---
 
@@ -22,16 +22,14 @@ independently to round out my skills — including frontend work which I'm picki
 
 ---
 
-## Projects
+## Highlighted Projects
 
-**[Game Library](https://github.com/dennismuehlegger/game-library)**
-Spring Boot REST API modeling a game marketplace — users can browse, purchase, and manage their library. Filtering, sorting, and a UI layer in progress.
+### [Game Library](https://github.com/dennismuehlegger/game-library)
+**Spring Boot REST API • Marketplace & User Inventory System**
+* *Related:* [Game Library UI](https://github.com/dennismuehlegger/game-library-ui) (Frontend interface built to consume this API)
 
-**[Dynamic Filter](https://github.com/dennismuehlegger/dynamic-filtering)**
-Builds SQL queries dynamically at runtime using CriteriaBuilder or QueryDSL. Accepts filter conditions as parameters to construct predicates across a fixed entity relationship chain, avoiding hardcoded JPQL. Includes unit tests.
+### [Setlist Analytics Engine](https://github.com/dennismuehlegger/setlist-analytics-engine)
+**Spring Boot Data Pipeline • Automated Third-Party Integration & Analytics**
 
----
-
-## Currently learning
-
-Frontend basics
+### [Dynamic Filter](https://github.com/dennismuehlegger/dynamic-filtering)
+**Spring Data JPA Utility • Dynamic Runtime Query Builder & Filter Engine**
